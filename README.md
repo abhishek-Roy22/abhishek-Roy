@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working on a very secret project.<br>
+🔭 Hi 👋 my name is Abhishek Kumar.<br>
+🖥️ My Dream is to become a developer most likely Back-end Developer.<br>
 
 
 ## 🌐 Socials:
